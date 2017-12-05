@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# Sophia Yang
+## Welcome to my website
 
 You can use the [editor on GitHub](https://github.com/sophiay2/sophiay2.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
