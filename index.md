@@ -1,7 +1,7 @@
 # Sophia Yang
 ## Welcome to my website
 
-<img align="left" src="Headshot.jpg" width="507" height="857" />
+<img align="left" src="Headshot.jpg" width="500" height="800" />
 
 You can use the [editor on GitHub](https://github.com/sophiay2/sophiay2.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
