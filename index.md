@@ -2,6 +2,10 @@
 
 <img align="left" src="Headshot.jpg" width="165" height="250" />
 
+## About Me
+
+Hello! I'm Sophia Yang and I am majoring in Computer Science at the University of Illinois at Urbana-Champaign.
+
 ## Career
 
 Enter resume info with ### fonts for each job I had
