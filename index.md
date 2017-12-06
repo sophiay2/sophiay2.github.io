@@ -22,3 +22,7 @@ Hello! I'm Sophia Yang and I am pursuing a Bachelor of Science in Computer Scien
 ### SHIFT LEADER AND KEY-HOLDER AT RED MANGO (2015-2017)
    As a supervisor at Red Mango, I delivered a clean, welcoming environment for customers. Aside from managing the inventory, I customized and created many new customer favorites for the menu. I lead the team here through a demonstration of excellent working habits and encouragement, and increased the sales by at least 15%.
 
+## Education
+
+[UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN](http://illinois.edu) (2017-PRESENT)- 4.00/4.00 
+[HINSDALE CENTRAL HIGH SCHOOL](https://d86.hinsdale86.org/Domain/8) (2013-2017)- GPA 5.84/5.00
