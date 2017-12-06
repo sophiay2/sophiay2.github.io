@@ -27,3 +27,19 @@ Hello! I'm Sophia Yang and I am pursuing a Bachelor of Science in Computer Scien
 [UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN](http://illinois.edu) (2017-PRESENT)- 4.00/4.00 
 
 [HINSDALE CENTRAL HIGH SCHOOL](https://d86.hinsdale86.org/Domain/8) (2013-2017)- GPA 5.84/5.00
+
+## Skills
+   As a tri-linguist in English, Mandarin, and German, I have a fluent control over communication skills. I tutored all three languages to peer students as well as core classes like Calculus and raised their grades by 20% on average. Employed by the two main troubleshooting platforms on campus, I developed a deep understanding to a diverse range of technological issues by faculty, staff, and students.
+   
+## Awards
+Honors Presidential Scholar
+National AP Scholar
+Top 3% High Honor Student- Hinsdale Central High School 2017
+
+## Interests
+I am interested in improving the efficiency of medical instruments and have done research in the meantime about how certain critical procedures are done, and how they may be innovatively improved. I hold a philosophy in which I believe anything and everything has room for improvement, and it is our responsibility to find ways to continuously achieve higher. 
+Musically, I play the violin and love to sing, owning a 3-octave vocal range.
+Hobbies of mine including swimming and bowling, in which my Girl's Varsity Bowling Team won the first West Suburban Championship in the history of Hinsdale Central High School.
+
+## Contact
+If you are interested in getting in touch with me, feel free to email me at sophiay2@illinois.edu or add me on Facebook! Life is too short for passersby to not shake hands, or even start a companionship hand in hand. <3
