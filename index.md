@@ -1,6 +1,7 @@
 # Sophia Yang
 ### sophiay2@illinois.edu
 ### [Facebook Profile](https://www.facebook.com/sophiashiyang)
+### 630-570-1868
 
 <img align="left" src="Headshot.jpg" width="165" height="250" />
 
