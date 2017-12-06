@@ -1,4 +1,5 @@
 # Sophia Yang
+### sophiay2@illinois.edu
 
 <img align="left" src="Headshot.jpg" width="165" height="250" />
 
