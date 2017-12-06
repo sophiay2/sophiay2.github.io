@@ -4,7 +4,7 @@
 
 ## About Me
 
-Hello! I'm Sophia Yang and I am majoring in Computer Science at the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu). I will also be pursuing a minor in [Business](https://business.illinois.edu) for a more well-rounded education here. 
+Hello! I'm Sophia Yang and I am majoring in Computer Science at the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu). I will also be pursuing a minor in [Business](https://business.illinois.edu) for a more well-rounded education here. I am a Freshman and expected to graduate by May, 2020.
 
 ## Career
 
