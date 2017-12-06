@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hello! I'm Sophia Yang and I am pursuing a Bachelor of Science in Computer Science at the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu). I will also be pursuing a minor in [Business](https://business.illinois.edu) for a more well-rounded education here. I am a Freshman and expected to graduate by May, 2020.
+Hello! I'm Sophia Yang and I am pursuing a Bachelor of Science in Computer Science at the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu). I will also be pursuing a minor in [Business](https://business.illinois.edu) for a more well-rounded education here. I am a Freshman with Junior standing and expect to graduate by May, 2020 with both studies.
 
 ## Experience
 
@@ -31,7 +31,7 @@ Hello! I'm Sophia Yang and I am pursuing a Bachelor of Science in Computer Scien
 [HINSDALE CENTRAL HIGH SCHOOL](https://d86.hinsdale86.org/Domain/8) (2013-2017)- GPA 5.84/5.00
 
 ## Skills
-   As a tri-linguist in English, Mandarin, and German, I have a fluent control over communication skills. I tutored all three languages to peer students as well as core classes like Calculus and raised their grades by 20% on average. Employed by the two main troubleshooting platforms on campus, I developed a deep understanding to a diverse range of technological issues by faculty, staff, and students.
+   As a tri-linguist in English, Mandarin, and German, I have a fluent control over communication skills. I tutored all three languages to peer students as well as core classes like Calculus and AP Computer Science A, and raised their grades by 20% on average. Employed by the two main troubleshooting platforms on campus, I developed a deep understanding to a diverse range of technological issues by faculty, staff, and students. Not only do I understand the technical stance behind products of a company, I know the business model and the logics to achieve PIE: Practical, Innovative, Efficient.
    
 ## Awards
 Honors Presidential Scholar
@@ -40,10 +40,14 @@ National AP Scholar
 
 Top 3% High Honor Student- Hinsdale Central High School 2017
 
+Illinois State Scholar 2017
+
+National Honors Society - 2016/2017
+
 National German Exam Gold Medalist 2014
 
 ## Interests
-I am interested in improving the efficiency of medical instruments and have done research in the meantime about how certain critical procedures are done, and how they may be innovatively improved. I hold a philosophy in which I believe anything and everything has room for improvement, and it is our responsibility to find ways to continuously achieve higher. 
+I am interested in improving the efficiency of medical instruments and have done research in the meantime about how certain critical procedures are done, and how they may be innovatively improved. I trust that Computer Science will allow these changes to take place more immediately. I hold a philosophy in which I believe anything and everything has room for improvement, and it is our responsibility to find ways to continuously achieve higher. 
 Musically, I play the violin and love to sing, owning a 3-octave vocal range.
 Hobbies of mine including swimming and bowling, in which my Girl's Varsity Bowling Team won the first West Suburban Championship in the history of Hinsdale Central High School.
 
