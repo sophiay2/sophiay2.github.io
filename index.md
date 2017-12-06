@@ -4,6 +4,7 @@
 
 <img align="left" src="Headshot.jpg" width="165" height="250" />
 
+
 ## About Me
 
 Hello! I'm Sophia Yang and I am pursuing a Bachelor of Science in Computer Science at the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu). I will also be pursuing a minor in [Business](https://business.illinois.edu) for a more well-rounded education here. I am a Freshman and expected to graduate by May, 2020.
@@ -37,6 +38,8 @@ Honors Presidential Scholar
 National AP Scholar
 
 Top 3% High Honor Student- Hinsdale Central High School 2017
+
+National German Exam Gold Medalist 2014
 
 ## Interests
 I am interested in improving the efficiency of medical instruments and have done research in the meantime about how certain critical procedures are done, and how they may be innovatively improved. I hold a philosophy in which I believe anything and everything has room for improvement, and it is our responsibility to find ways to continuously achieve higher. 
