@@ -25,4 +25,5 @@ Hello! I'm Sophia Yang and I am pursuing a Bachelor of Science in Computer Scien
 ## Education
 
 [UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN](http://illinois.edu) (2017-PRESENT)- 4.00/4.00 
+
 [HINSDALE CENTRAL HIGH SCHOOL](https://d86.hinsdale86.org/Domain/8) (2013-2017)- GPA 5.84/5.00
