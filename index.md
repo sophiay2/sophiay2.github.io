@@ -11,30 +11,14 @@ Hello! I'm Sophia Yang and I am pursuing a Bachelor of Science in Computer Scien
 ## Experience
 
 ### HELP DESK STUDENT CONSULTANT, TECHNOLOGY SERVICES (2017- PRESENT)
-   Supports all students, faculty, staff, retirees, etc affiliated with the University of Illinois for most technical issues such as virtual private network installations, password and security management, email configuration, wifi troubles, campus netID (username) creations, Compass learning platform troubleshooting, etc. Creates a welcoming environment for all and helps resolve customers’ technical problems in a more simpler, understandable way to them. Provides immediate on-site services for classrooms when instructors require assistance.
+   Supports all students, faculty, staff, retirees, etc. affiliated with the University of Illinois for most technical issues such as virtual private network installations, password and security management, email configuration, wifi troubles, campus netID (username) creations, Compass learning platform troubleshooting, etc. Creates a welcoming environment for all and helps resolve customers’ technical problems in a more simpler, understandable way to them. Provides immediate on-site services for classrooms when instructors require assistance.
+   
+### STUDENT CONSULTANT, ENGINEERING IT SHARED SERVICES (2017- PRESENT)
+   Supports and services students, faculty, and staff affiliated in the College of Engineering for technical issues; Manages the Engineering Lab Workstations as well as supply inventory to deliver a convenient workstation for University affiliates. Helps resolve customers’ technical issues though the ticketing system platform.
+   
+### FOUNDER AND PRESIDENT, HONORS MUSIC COMPOSITION AND PERFORMING ARTS SOCIETY (2014- 2017)
+   Inspired students and developed their interests in music and the performing arts; to share the passion, I hosted nonprofit concerts based on student-composed pieces throughout the year and invited performers in the greater Chicago area, including musicians from the Chicago Youth Symphony Orchestra. I performed as concertmaster and soprano.
+   
+### SHIFT LEADER AND KEY-HOLDER AT RED MANGO (2015-2017)
+   As a supervisor at Red Mango, I delivered a clean, welcoming environment for customers. Aside from managing the inventory, I customized and created many new customer favorites for the menu. I lead the team here through a demonstration of excellent working habits and encouragement, and increased the sales by at least 15%.
 
-Enter resume info with ### fonts for each job I had
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
