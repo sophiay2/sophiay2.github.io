@@ -6,9 +6,12 @@
 
 ## About Me
 
-Hello! I'm Sophia Yang and I am majoring in Computer Science at the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu). I will also be pursuing a minor in [Business](https://business.illinois.edu) for a more well-rounded education here. I am a Freshman and expected to graduate by May, 2020.
+Hello! I'm Sophia Yang and I am pursuing a Bachelor of Science in Computer Science at the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu). I will also be pursuing a minor in [Business](https://business.illinois.edu) for a more well-rounded education here. I am a Freshman and expected to graduate by May, 2020.
 
-## Career
+## Experience
+
+### HELP DESK STUDENT CONSULTANT, TECHNOLOGY SERVICES (2017- PRESENT)
+    Supports all students, faculty, staff, retirees, etc affiliated with the University of Illinois for most technical issues such as virtual private network installations, password and security management, email configuration, wifi troubles, campus netID (username) creations, Compass learning platform troubleshooting, etc. Creates a welcoming environment for all and helps resolve customers’ technical problems in a more simpler, understandable way to them. Provides immediate on-site services for classrooms when instructors require assistance.
 
 Enter resume info with ### fonts for each job I had
 
