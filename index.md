@@ -1,6 +1,6 @@
 # Sophia Yang
 ### sophiay2@illinois.edu
-### [Facebook](https://www.facebook.com/sophiashiyang)
+### [Facebook Profile](https://www.facebook.com/sophiashiyang)
 
 <img align="left" src="Headshot.jpg" width="165" height="250" />
 
