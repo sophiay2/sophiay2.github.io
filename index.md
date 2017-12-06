@@ -33,7 +33,9 @@ Hello! I'm Sophia Yang and I am pursuing a Bachelor of Science in Computer Scien
    
 ## Awards
 Honors Presidential Scholar
+
 National AP Scholar
+
 Top 3% High Honor Student- Hinsdale Central High School 2017
 
 ## Interests
