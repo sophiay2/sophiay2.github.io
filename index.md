@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hello! I'm Sophia Yang and I am pursuing a Bachelor of Science in Computer Science at the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu) through the [College of Engineering](https://engineering.illinois.edu). I will also be pursuing a minor in [Business](https://business.illinois.edu) as well as fulfilling any pre-medical requirements for a more well-rounded education. I hope to combine my expertise in Computer Science, medicine, and business to keep innovating cutting-edge technology for the medical field and beyond. I am a Freshman with Junior standing and expect to graduate by May, 2020 with all studies.
+I'm Sophia Yang and I am pursuing a Bachelor of Science in Computer Science at the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu) through the [College of Engineering](https://engineering.illinois.edu). I will also be pursuing a minor in [Business](https://business.illinois.edu) as well as fulfilling any pre-medical requirements for a more well-rounded education. I hope to combine my expertise in Computer Science, medicine, and business to keep innovating cutting-edge technology for the medical field and beyond. I am a Freshman with Junior standing and expect to graduate by May, 2020 with all studies.
                                                                                                                                                                                                     
 ## Experience
 
