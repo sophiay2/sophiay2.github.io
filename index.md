@@ -12,6 +12,8 @@ Hello! I'm Sophia Yang and I am pursuing a Bachelor of Science in Computer Scien
 
 
 
+
+
 ## Experience
 
 ### HELP DESK STUDENT CONSULTANT, TECHNOLOGY SERVICES (2017- PRESENT)
