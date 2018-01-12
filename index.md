@@ -15,8 +15,8 @@ Hello! I'm Sophia Yang and I am pursuing a Bachelor of Science in Computer Scien
 ### HELP DESK STUDENT CONSULTANT, TECHNOLOGY SERVICES (2017- PRESENT)
    Supports all students, faculty, staff, retirees, etc. affiliated with the University of Illinois for most technical issues such as virtual private network installations, password and security management, email configuration, wifi troubles, campus netID (username) creations, Compass learning platform troubleshooting, etc. Creates a welcoming environment for all and helps resolve customers’ technical problems in a more simpler, understandable way to them. Provides immediate on-site services for classrooms when instructors require assistance.
    
-### STUDENT CONSULTANT, ENGINEERING IT SHARED SERVICES (2017- PRESENT)
-   Supports and services students, faculty, and staff affiliated in the College of Engineering for technical issues; Manages the Engineering Lab Workstations as well as supply inventory to deliver a convenient workstation for University affiliates. Helps resolve customers’ technical issues though the ticketing system platform.
+### STUDENT CONSULTANT (L2 STUDENT SUPERVISOR), ENGINEERING IT SHARED SERVICES (2017- PRESENT)
+   Supports and services students, faculty, and staff affiliated in the College of Engineering for technical issues; Manages the Engineering Lab Workstations as well as supply inventory to deliver a convenient workstation for University affiliates. Helps resolve customers’ technical issues though the ticketing system platform, and more complex issues escalated by L1 Student Consultants; Makes sure L1 Student Consultants completes their given tasks in a timely manner. 
    
 ### FOUNDER AND PRESIDENT, HONORS MUSIC COMPOSITION AND PERFORMING ARTS SOCIETY (2014- 2017)
    Inspired students and developed their interests in music and the performing arts; to share the passion, I hosted nonprofit concerts based on student-composed pieces throughout the year and invited performers in the greater Chicago area, including musicians from the Chicago Youth Symphony Orchestra. I performed as concertmaster and soprano.
