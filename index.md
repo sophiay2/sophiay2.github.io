@@ -49,7 +49,7 @@ National German Exam Gold Medalist 2014
 ## Interests
 I am interested in improving the efficiency of medical instruments and have done research in the meantime about how certain critical procedures are done, and how they may be innovatively improved. I trust that Computer Science will allow these changes to take place more immediately. I hold a philosophy in which I believe anything and everything has room for improvement, and it is our responsibility to find ways to continuously achieve higher. 
 Musically, I play the violin and love to sing, owning a 3-octave vocal range.
-Hobbies of mine including swimming and bowling, in which my Girl's Varsity Bowling Team won the first West Suburban Championship in the history of Hinsdale Central High School.
+Hobbies of mine including swimming and bowling, in which my Girl's Varsity Bowling Team won the first West Suburban Conference Championship in the history of Hinsdale Central High School.
 
 ## Contact
 If you are interested in getting in touch with me, feel free to email me at sophiay2@illinois.edu or add me on Facebook! Life is too short for passersby to not shake hands, or even start a companionship hand in hand. <3
