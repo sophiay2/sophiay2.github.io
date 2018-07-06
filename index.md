@@ -3,19 +3,19 @@
 ### [Facebook Profile](https://www.facebook.com/sophiashiyang)
 ### 630-570-1868
 
-<img align="left" src="Headshot.jpg" width="158" height="250" />
+<img align="left" src="Headshot.jpg" width="152" height="250" />
 
 
 ## About Me
 
-I am Sophia Yang and am pursuing a Bachelor of Science in Computer Science at the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu) through the [College of Engineering](https://engineering.illinois.edu). I will also be pursuing a [Business](https://business.illinois.edu) minor as well as any pre-medical requirements for a more well-rounded education. I hope to combine my expertise in Computer Science, medicine, and business to keep innovating cutting-edge technology for the medical field and beyond. I am a Freshman with Junior standing and expect to graduate by May, 2020 with all studies.
+I am Sophia Yang and am pursuing a Bachelor of Science in Computer Science at the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu) through the [College of Engineering](https://engineering.illinois.edu). I will also be pursuing a [Business](https://business.illinois.edu) minor as well as any pre-medical requirements for a more well-rounded education. I hope to combine my expertise in Computer Science, medicine, and business to keep innovating cutting-edge technology for the medical field and beyond. I am a Sophomore with Senior standing and expect to graduate by May 16th, 2020 with all studies.
                                                                                                                                                                                                     
 ## Experience
 
-### HELP DESK STUDENT CONSULTANT, [TECHNOLOGY SERVICES](https://techservices.illinois.edu) (2017- PRESENT)
-   Supports all students, faculty, staff, retirees, etc. affiliated with the University of Illinois for most technical issues such as virtual private network installations, password and security management, email configuration, wifi troubles, campus netID (username) creations, Compass learning platform troubleshooting, etc. Creates a welcoming environment for all and helps resolve customers’ technical problems in a more simpler, understandable way to them. Provides immediate on-site services for classrooms when instructors require assistance.
+### HELP DESK STUDENT CONSULTANT (TEAM LEAD), [TECHNOLOGY SERVICES](https://techservices.illinois.edu) (06/2017- PRESENT)
+   Supports all students, faculty, staff, retirees, etc. affiliated with the University of Illinois for most technical issues such as virtual private network installations, password and security management, email configuration, wifi troubles, campus netID (username) creations, Compass learning platform troubleshooting, Skype for Business/Lync troubleshooting, etc. Creates a welcoming environment for all and helps resolve customers’ technical problems in a simpler, more understandable way to them. Provides immediate on-site services for classrooms when instructors and professors require assistance.
    
-### STUDENT CONSULTANT (L2 STUDENT SUPERVISOR), [ENGINEERING IT SHARED SERVICES](https://it.engineering.illinois.edu) (2017- PRESENT)
+### STUDENT CONSULTANT (L2 STUDENT SUPERVISOR), [ENGINEERING IT SHARED SERVICES](https://it.engineering.illinois.edu) (08/2017- PRESENT)
    Supports and services students, faculty, and staff affiliated in the College of Engineering for technical issues; Manages the Engineering Lab Workstations as well as supply inventory to deliver a convenient workstation for University affiliates. Helps resolve customers’ technical issues though the ticketing system platform, and more complex issues escalated by L1 Student Consultants; Makes sure L1 Student Consultants completes their given tasks in a timely manner. 
    
 ### FOUNDER AND PRESIDENT, HONORS MUSIC COMPOSITION AND PERFORMING ARTS SOCIETY (2014- 2017)
@@ -26,7 +26,7 @@ I am Sophia Yang and am pursuing a Bachelor of Science in Computer Science at th
 
 ## Education
 
-[UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN](http://illinois.edu) (2017-PRESENT)- 4.00/4.00 
+[UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN](http://illinois.edu) (08/2017-PRESENT)- 3.58/4.00 
 
 [HINSDALE CENTRAL HIGH SCHOOL](https://d86.hinsdale86.org/Domain/8) (2013-2017)- GPA 5.84/5.00
 
@@ -34,7 +34,7 @@ I am Sophia Yang and am pursuing a Bachelor of Science in Computer Science at th
    As a tri-linguist in English, Mandarin, and German, I have a fluent control over communication skills. I tutored all three languages to peer students as well as core classes like Calculus and AP Computer Science A, and raised their grades by 20% on average. Employed by the two main troubleshooting platforms on campus, I developed a deep understanding to a diverse range of technological issues by faculty, staff, and students. Not only do I understand the technical stance behind products of a company, I know the business model and the logics to achieve PIE: Practical, Innovative, Efficient.
    
 ## Awards
-Honors Presidential Scholar
+Honors Presidents Scholar
 
 National AP Scholar
 
