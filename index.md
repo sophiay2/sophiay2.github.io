@@ -12,17 +12,20 @@ I am Sophia Yang and am pursuing a Bachelor of Science in Computer Science at th
                                                                                                                                                                                                     
 ## Experience
 
+### PRODUCT SUPPLY ENGINEER, SUMMER INTERN, PROCTER & GAMBLE (05/2018 – 08/2018)
+   Created real-time automation of data visualization from multiple data sources, and developed fluency in Microsoft Power BI software as well as Factory Talk View Studio. Optimized runtime speed by over 50% for data refreshes and enabled various data-fetching capabilities. Developed fluency in fetching data using the REST API and creating data filters for aggregation. From development to implementation onto industrial hardware and manufacturing environment, wrote numerous technical documentations while demonstrating proof-of-concept database connections.
+
 ### HELP DESK STUDENT CONSULTANT (TEAM LEAD), [TECHNOLOGY SERVICES](https://techservices.illinois.edu) (06/2017- PRESENT)
-   Supports all students, faculty, staff, retirees, etc. affiliated with the University of Illinois for most technical issues such as virtual private network installations, password and security management, email configuration, wifi troubles, campus netID (username) creations, Compass learning platform troubleshooting, Skype for Business/Lync troubleshooting, etc. Creates a welcoming environment for all and helps resolve customers’ technical problems in a simpler, more understandable way to them. Provides immediate on-site services for classrooms when instructors and professors require assistance. Manages Help Desk student consultants on the shift, and ensures event deliverables (event setup, classroom training, etc.) are achieved in a timely manner. 
+   Supports all students, faculty, staff, retirees, etc. affiliated with the University of Illinois for most technical issues such as virtual private network installations, password and security management, email configuration, wifi troubles, campus netID (username) creations, Compass learning platform troubleshooting, Skype for Business/Lync troubleshooting, etc. Creates a welcoming environment for all and helps resolve customers’ technical problems in a simpler, more understandable way to them. Provides immediate on-site services for classrooms when instructors and professors require assistance. Manages and trains Help Desk student consultants on the shift, and ensures event deliverables (event setup, classroom training, etc.) are achieved in a timely manner. 
    
 ### STUDENT CONSULTANT (L2 STUDENT SUPERVISOR), [ENGINEERING IT SHARED SERVICES](https://it.engineering.illinois.edu) (08/2017- PRESENT)
-   Supports and services students, faculty, and staff affiliated in the College of Engineering for technical issues; Manages the Engineering Lab Workstations as well as supply inventory to deliver a convenient workstation for University affiliates. Helps resolve customers’ technical issues though the ticketing system platform, and more complex issues escalated by L1 Student Consultants; Ensures L1 Student Consultants completes their given tasks in a timely manner. 
+   Supports and services students, faculty, and staff affiliated in the College of Engineering for technical issues; Manages the Engineering Lab Workstations as well as supply inventory to deliver a convenient workstation for University affiliates. Helps resolve customers’ technical issues though the ticketing system platform, and more complex technical issues escalated by Level 1 Student Consultants; Dispatches and ensures Level 1 Student Consultants completes their given tasks in a timely manner, as well as provide hands-on training for Level 1 Student Consultants. Technical issues range from Citrix Receiver server, FastX installations for remote EWS station use, and print job refunds management as an ICS Papercut Administrator, to Engineering Lab Workstation printer servers.     
    
 ### FOUNDER AND PRESIDENT, HONORS MUSIC COMPOSITION AND PERFORMING ARTS SOCIETY (2014- 2017)
-   Inspired students and developed their interests in music and the performing arts; to share the passion, I hosted nonprofit concerts based on student-composed pieces throughout the year and invited performers in the greater Chicago area, including musicians from the Chicago Youth Symphony Orchestra. I performed as concertmaster and soprano.
+   Inspired students and developed their interests in music and the performing arts; to share the passion, I hosted nonprofit concerts based on student-composed pieces throughout the year and invited performers in the greater Chicago area, including guest artist musicians from the Chicago Youth Symphony Orchestra. With a full orchestra and choral section, I performed as both concertmaster and soprano.
    
 ### SHIFT LEADER AND KEY-HOLDER AT RED MANGO (2015-2017)
-   As a supervisor at Red Mango, I delivered a clean, welcoming environment for customers. Aside from managing the inventory, I customized and created many new customer favorites for the menu. I lead the team here through a demonstration of excellent working habits and encouragement, and increased the sales by at least 15%.
+   As a supervisor at Red Mango, I delivered a clean, welcoming environment for customers. Aside from managing the inventory, I customized and created many new customer favorites for the menu, as well as gave customers a tailored experience suited to their needs. I lead the team here through a demonstration of excellent working habits and encouragement, and increased the sales by at least 15%. From optimizing techniques for creating menu items, I reduced the process order time by over 30%, increasing customer satisfaction.
 
 ## Education
 
@@ -34,7 +37,7 @@ I am Sophia Yang and am pursuing a Bachelor of Science in Computer Science at th
    As a tri-linguist in English, Mandarin, and German, I have a fluent control over communication skills. I tutored all three languages to peer students as well as core classes like Calculus and AP Computer Science A, and raised their grades by 20% on average. Employed by the two main troubleshooting platforms on campus, I developed a deep understanding to a diverse range of technological issues by faculty, staff, and students. Not only do I understand the technical stance behind products of a company, I know the business model and the logics to achieve PIE: Practical, Innovative, Efficient.
    
 ## Awards
-Honors Presidents Scholar
+Honors Presidents Scholar - University of Illinois at Urbana-Champaign
 
 National AP Scholar
 
@@ -45,6 +48,10 @@ Illinois State Scholar 2017
 National Honors Society - 2016/2017
 
 National German Exam Gold Medalist 2014
+
+Student of the Quarter - Business Department - Hinsdale Central High School 2015 
+
+Red Devil Spirit Scholarship Award - Hinsdale Central High School 2017
 
 ## Interests
 I am interested in improving the efficiency of medical instruments and have done research in the meantime about how certain critical procedures are done, and how they may be innovatively improved. I trust that Computer Science will allow these changes to take place more immediately. I hold a philosophy in which I believe anything and everything has room for improvement, and it is our responsibility to find ways to continuously achieve higher. 
