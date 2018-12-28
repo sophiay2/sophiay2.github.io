@@ -20,8 +20,8 @@ I am Sophia Yang and am pursuing a Bachelor of Science in Computer Science at th
 ### HELP DESK STUDENT CONSULTANT (TEAM LEAD), [TECHNOLOGY SERVICES](https://techservices.illinois.edu) (06/2017- PRESENT)
    Supports all students, faculty, staff, retirees, etc. affiliated with the University of Illinois for most technical issues such as virtual private network installations, password and security management, email configuration, wifi troubles, campus netID (username) creations, Compass learning platform troubleshooting, Skype for Business/Lync troubleshooting, etc. Creates a welcoming environment for all and helps resolve customers’ technical problems in a simpler, more understandable way to them. Provides immediate on-site services for classrooms when instructors and professors require assistance. Manages and trains Help Desk student consultants on the shift, and ensures event deliverables (event setup, classroom training, etc.) are achieved in a timely manner. 
    
-### STUDENT CONSULTANT (L2 STUDENT SUPERVISOR), [ENGINEERING IT SHARED SERVICES](https://it.engineering.illinois.edu) (08/2017- PRESENT)
-   Supports and services students, faculty, and staff affiliated in the College of Engineering for technical issues; Manages the Engineering Lab Workstations as well as supply inventory to deliver a convenient workstation for University affiliates. Helps resolve customers’ technical issues though the ticketing system platform, and more complex technical issues escalated by Level 1 Student Consultants; Dispatches and ensures Level 1 Student Consultants completes their given tasks in a timely manner, as well as provide hands-on training for Level 1 Student Consultants. Technical issues range from Citrix Receiver server, FastX installations for remote EWS station use, and print job refunds management as an ICS Papercut Administrator, to Engineering Lab Workstation printer servers.     
+### STUDENT CONSULTANT (L3 STUDENT SUPERVISOR), [ENGINEERING IT SHARED SERVICES](https://it.engineering.illinois.edu) (08/2017- PRESENT)
+   Supports and services students, faculty, and staff affiliated in the College of Engineering for technical issues; Manages the Engineering Lab Workstations as well as supply inventory to deliver a convenient workstation for University affiliates. Helps resolve customers’ technical issues though the ticketing system platform, and more complex technical issues escalated by Level 1 and Level 2 Student Consultants; Dispatches and ensures Level 1 and Level 2 Student Consultants completes their given tasks in a timely manner, as well as provide hands-on training for both Level 1 and 2 Student Consultants. Technical issues range from Citrix Receiver server, FastX installations for remote EWS station use, and print job refunds management as an ICS Papercut Administrator, to Engineering Lab Workstation printer servers.
    
 ### COURSE ASSISTANT, [CS 125](https://cs125.cs.illinois.edu/) (01/2018 - 05/2018)
    Hosts office hours for CS 125, answers and resolves student inquiries on the Piazza forum, and guides students with the concepts of Java programming so that they may fix their own bugs. 
@@ -45,6 +45,8 @@ I am Sophia Yang and am pursuing a Bachelor of Science in Computer Science at th
 Honors Presidents Scholar - University of Illinois at Urbana-Champaign
 
 James Scholar - College of Engineering - University of Illinois at Urbana-Champaign
+
+[David Anderson Scholarship Award](https://it.engineering.illinois.edu/news/david-anderson-and-stephanie-ognar-honored-scholarships) - Engineering IT Shared Services - University of Illinois at Urbana-Champaign
 
 National AP Scholar
 
