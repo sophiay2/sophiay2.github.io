@@ -14,11 +14,11 @@ I am Sophia Yang and am pursuing a Bachelor of Science in Computer Science at th
 ## Experience
 
 ### INFORMATION TECHNOLOGY INTERN - APPLICATION COUPA MANAGER & DATA ANALYST, [PROCTER & GAMBLE](https://us.pg.com/) (05/2019 - 08/2019)
-    - Worked in Financial and Purchasing Services & Solutions (FPSS) under the Source Plan Pay Operations (SPPO) sector to lead the discovery, documentation, and implementation of IT spend controls over the scope of more than $3,000,000,000 annually. 
-    - Pinpointed risk areas for the suppliers' Information Security vetting processes, and documented the solutions to not only automate more secure control measures but also preventative stratagems for safer selections and interactions with suppliers. 
-    - Enabled visibility and governance for each Business Unit and executives in both the spend and supplier security aspect
-    - Used Microsoft Power BI to create data models from the Data Lake to serve the above purposes; I have experience with both local data pulls for sampling as well as creating data models using Azure on the cloud for a live-connect option (for larger datasets). 
-    - Bridged the gap between transactional data (including Coupa, ProCard, and Financial Invoice data) and Information Security data (including Aravo and Third Party Risk Management data) which led efforts to upgrade the Data Lake with further data. 
+   - Worked in Financial and Purchasing Services & Solutions (FPSS) under the Source Plan Pay Operations (SPPO) sector to lead the discovery, documentation, and implementation of IT spend controls over the scope of more than $3,000,000,000 annually. 
+   - Pinpointed risk areas for the suppliers' Information Security vetting processes, and documented the solutions to not only automate more secure control measures but also preventative stratagems for safer selections and interactions with suppliers. 
+   - Enabled visibility and governance for each Business Unit and executives in both the spend and supplier security aspect
+   - Used Microsoft Power BI to create data models from the Data Lake to serve the above purposes; I have experience with both local data pulls for sampling as well as creating data models using Azure on the cloud for a live-connect option (for larger datasets). 
+   - Bridged the gap between transactional data (including Coupa, ProCard, and Financial Invoice data) and Information Security data (including Aravo and Third Party Risk Management data) which led efforts to upgrade the Data Lake with further data. 
 
 
 ### PRODUCT SUPPLY ENGINEER, SUMMER INTERN, [PROCTER & GAMBLE](https://us.pg.com/) (05/2018 – 08/2018)
