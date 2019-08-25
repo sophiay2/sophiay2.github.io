@@ -26,14 +26,26 @@ I am Sophia Yang and am pursuing a Bachelor of Science in Computer Science at th
   - Optimized runtime speed by over 70% for data refreshes and enabled various data-fetching capabilities. Used Python to automate data fetches.
   - Developed fluency in fetching data using the REST API and creating data filters for aggregation. 
   - From development to implementation onto industrial hardware and manufacturing environment, wrote numerous technical documentations while demonstrating proof-of-concept database connections.
+  
+  
+### COURSE ASSISTANT, [CS 233 COMPUTER ARCHITECTURE](https://cs233.github.io/) (08/2019 - PRESENT)
+  - Hosted office hours
+  - Ran discussion section with graduate TA
+  - Proctored quizzes
+  - Answered student questions on Piazza
 
-
-### HELP DESK STUDENT CONSULTANT (TEAM LEAD), [TECHNOLOGY SERVICES](https://techservices.illinois.edu) (06/2017- PRESENT)
-   Supports all students, faculty, staff, retirees, etc affiliated with the University of Illinois for technical issues such as virtual private network installations, password and security management, email configuration, wifi troubles, campus netID creations, Compass learning platform troubleshooting, etc. Creates a welcoming environment and helps resolve clients’ technical problems in a simpler, understandable way to them. Provides immediate on-site services for classrooms when instructors require assistance. Manages and trains Help Desk student consultants and ensures event deliverables (event setup, classroom training, etc.) are achieved in a timely manner. Optimized audit quality control procedures for student call and ticket monitoring. 
-   
 ### STUDENT CONSULTANT (L3 STUDENT SUPERVISOR), [ENGINEERING IT SHARED SERVICES](https://it.engineering.illinois.edu) (08/2017- PRESENT)
-   Supports and services students, faculty, and staff affiliated in the College of Engineering for technical issues; Manages the Engineering Lab Workstations as well as supply inventory to deliver a convenient workstation for University affiliates. Helps resolve customers’ technical issues though the ticketing system platform, and more complex technical issues escalated by Level 1 and Level 2 Student Consultants; Dispatches and ensures Level 1 and Level 2 Student Consultants completes their given tasks in a timely manner, as well as provide hands-on training for both Level 1 and 2 Student Consultants. Technical issues range from Citrix Receiver server, FastX installations for remote EWS station use, and print job refunds management as an ICS Papercut Administrator, to Engineering Lab Workstation printer servers.
-   
+  - Resolved technical issues from clients and escalated issues from Level 1 and Level 2 Student Consultants through Request Tracker (RT) system; Issues include FastX installations (for remote EWS Linux access), Citrix Receiver server errors, print job and refunds management, etc. 
+  - Managed over 30 Engineering Workstation Labs and their supply inventory
+  - Managed over 50 Level 1 and Level 2 student consultants. 
+  - Developed training plan for training Level 1 and 2 Student Consultants; delivered hands-on and classroom training to Level 1 and 2 Student Consultants consistently. 
+  
+
+### HELP DESK STUDENT CONSULTANT (TEAM LEAD), [TECHNOLOGY SERVICES](https://techservices.illinois.edu) (06/2017- 01/2019)
+  - Resolved technical issues such as virtual private network installations, password and security management, email configuration, wifi troubles, campus netID creations, Compass learning platform troubleshooting, etc. 
+  - Managed all Help Desk student consultants (~50) with other Team Leads, trained new-hire employees hands-on, and ensured event deliverables (event setup, classroom training, etc.) are achieved in a timely manner. Gave constructive feedback weekly and performance reviews semesterly (for promotions) to student consultants that I worked with most.
+  - Optimized audit quality control procedures for student call and ticket monitoring. 
+
 ### COURSE ASSISTANT, [CS 125](https://cs125.cs.illinois.edu/) (01/2018 - 05/2018)
    Hosts office hours for CS 125, answers and resolves student inquiries on the Piazza forum, and guides students with the concepts of Java programming so that they may fix their own bugs. 
    
@@ -45,7 +57,7 @@ I am Sophia Yang and am pursuing a Bachelor of Science in Computer Science at th
 
 ## Education
 
-[UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN](http://illinois.edu) (08/2017-PRESENT)- 3.58/4.00 
+[UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN](http://illinois.edu) (08/2017-PRESENT)- 3.4/4.0 
 
 [HINSDALE CENTRAL HIGH SCHOOL](https://d86.hinsdale86.org/Domain/8) (2013-2017)- GPA 5.84/5.00
 
@@ -53,25 +65,31 @@ I am Sophia Yang and am pursuing a Bachelor of Science in Computer Science at th
    As a tri-linguist in English, Mandarin, and German, I have a fluent control over communication skills. I tutored all three languages to peer students as well as core classes like Calculus and AP Computer Science A, and raised their grades by 20% on average. Employed by the two main troubleshooting platforms on campus, I developed a deep understanding to a diverse range of technological issues by faculty, staff, and students. Not only do I understand the technical stance behind products of a company, I know the business model and the logics to achieve PIE: Practical, Innovative, Efficient.
    
 ## Awards
-Honors Presidents Scholar - University of Illinois at Urbana-Champaign
 
-James Scholar - College of Engineering - University of Illinois at Urbana-Champaign
+#### Power of You - Team Work - Procter & Gamble
+Awarded for Teamwork and for recruiting efforts on campus (speaking at Tech Talk on campus, etc.)
 
-[David Anderson Scholarship Award](https://it.engineering.illinois.edu/news/david-anderson-and-stephanie-ognar-honored-scholarships) - Engineering IT Shared Services - University of Illinois at Urbana-Champaign
+#### Presidents Award Honors Scholar - University of Illinois at Urbana-Champaign
+Awarded to the highest achieving Presidents Award Scholars (~200 across all three campuses combined)
 
-National AP Scholar
+#### James Scholar - College of Engineering - University of Illinois at Urbana-Champaign
 
-Top 3% High Honor Student- Hinsdale Central High School 2017
+#### [David Anderson Scholarship Award](https://it.engineering.illinois.edu/news/david-anderson-and-stephanie-ognar-honored-scholarships) - Engineering IT Shared Services - University of Illinois at Urbana-Champaign
+Awarded to 1 student employee annually displaying persistence, dedication, and the pursuit of reliable, flexible IT service
 
-Illinois State Scholar 2017
+#### National AP Scholar
 
-National Honors Society - 2016/2017
+#### Top 3% High Honor Student- Hinsdale Central High School 2017
 
-National German Exam Gold Medalist 2014
+#### Illinois State Scholar 2017
 
-Student of the Quarter - Business Department - Hinsdale Central High School 2015 
+#### National Honors Society - 2016/2017
 
-Red Devil Spirit Scholarship Award - Hinsdale Central High School 2017
+#### National German Exam Gold Medalist 2014
+
+#### Student of the Quarter - Business Department - Hinsdale Central High School 2015 
+
+#### Red Devil Spirit Scholarship Award - Hinsdale Central High School 2017
 
 ## Interests
 I am interested in improving the efficiency of medical instruments and have done research in the meantime about how certain critical procedures are done, and how they may be innovatively improved. I trust that Computer Science will allow these changes to take place more immediately. I hold a philosophy in which I believe anything and everything has room for improvement, and it is our responsibility to find ways to continuously achieve higher. 
