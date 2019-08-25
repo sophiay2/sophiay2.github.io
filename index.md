@@ -4,7 +4,7 @@
 ### [LinkedIn Profile](https://www.linkedin.com/in/sophia-s-yang/)
 ### 630-570-1868
 
-<img align="left" src="linkedinprof1.jpg" width="152" height="250" />
+<img align="left" src="linkedinprof1.jpg" width="200" height="250" />
 
 
 ## About Me
