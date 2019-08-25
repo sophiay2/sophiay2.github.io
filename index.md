@@ -22,7 +22,11 @@ I am Sophia Yang and am pursuing a Bachelor of Science in Computer Science at th
 
 
 ### PRODUCT SUPPLY ENGINEER, SUMMER INTERN, [PROCTER & GAMBLE](https://us.pg.com/) (05/2018 – 08/2018)
-   Created real-time automation of data visualization from multiple data sources, and developed fluency in Microsoft Power BI software as well as Factory Talk View Studio. Optimized runtime speed by over 50% for data refreshes and enabled various data-fetching capabilities. Developed fluency in fetching data using the REST API and creating data filters for aggregation. From development to implementation onto industrial hardware and manufacturing environment, wrote numerous technical documentations while demonstrating proof-of-concept database connections.
+  - Created real-time automation of data visualization from multiple data sources, and developed fluency in Microsoft Power BI software as well as Factory Talk View Studio. 
+  - Optimized runtime speed by over 70% for data refreshes and enabled various data-fetching capabilities. Used Python to automate data fetches.
+  - Developed fluency in fetching data using the REST API and creating data filters for aggregation. 
+  - From development to implementation onto industrial hardware and manufacturing environment, wrote numerous technical documentations while demonstrating proof-of-concept database connections.
+
 
 ### HELP DESK STUDENT CONSULTANT (TEAM LEAD), [TECHNOLOGY SERVICES](https://techservices.illinois.edu) (06/2017- PRESENT)
    Supports all students, faculty, staff, retirees, etc affiliated with the University of Illinois for technical issues such as virtual private network installations, password and security management, email configuration, wifi troubles, campus netID creations, Compass learning platform troubleshooting, etc. Creates a welcoming environment and helps resolve clients’ technical problems in a simpler, understandable way to them. Provides immediate on-site services for classrooms when instructors require assistance. Manages and trains Help Desk student consultants and ensures event deliverables (event setup, classroom training, etc.) are achieved in a timely manner. Optimized audit quality control procedures for student call and ticket monitoring. 
