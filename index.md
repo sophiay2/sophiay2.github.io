@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-173961281-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-173961281-1');
+</script>
+
 # Sophia Yang
 ### sophiay2@illinois.edu
 ### [Facebook Profile](https://www.facebook.com/sophiashiyang)
