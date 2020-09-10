@@ -35,7 +35,7 @@ I am Sophia Yang and am pursuing a Bachelor of Science in Computer Science at th
   - From development to implementation onto industrial hardware and manufacturing environment, wrote numerous technical documentations while demonstrating proof-of-concept database connections.
  
  
- ### COURSE ASSISTANT, [CS 411 DATABASE SYSTEMS](https://cs.illinois.edu/academics/courses/cs411) (08/2020 - PRESENT)
+### COURSE ASSISTANT, [CS 411 DATABASE SYSTEMS](https://cs.illinois.edu/academics/courses/cs411) (08/2020 - PRESENT)
   - Hosted office hours
   - Quality assurance for class assignments
   - Answered student questions on Piazza
