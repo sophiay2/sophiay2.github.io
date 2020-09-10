@@ -33,7 +33,12 @@ I am Sophia Yang and am pursuing a Bachelor of Science in Computer Science at th
   - Optimized runtime speed by over 70% for data refreshes and enabled various data-fetching capabilities. Used Python to automate data fetches.
   - Developed fluency in fetching data using the REST API and creating data filters for aggregation. 
   - From development to implementation onto industrial hardware and manufacturing environment, wrote numerous technical documentations while demonstrating proof-of-concept database connections.
-  
+ 
+ 
+ ### COURSE ASSISTANT, [CS 411 DATABASE SYSTEMS](https://cs.illinois.edu/academics/courses/cs411) (08/2020 - PRESENT)
+  - Hosted office hours
+  - Quality assurance for class assignments
+  - Answered student questions on Piazza
   
 ### COURSE ASSISTANT, [CS 233 COMPUTER ARCHITECTURE](https://cs233.github.io/) (08/2019 - PRESENT)
   - Hosted office hours
@@ -64,7 +69,7 @@ I am Sophia Yang and am pursuing a Bachelor of Science in Computer Science at th
 
 ## Education
 
-[UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN](http://illinois.edu) (08/2017-PRESENT)- 3.4/4.0 
+[UNIVERSITY OF ILLINOIS AT URBANA-CHAMPAIGN](http://illinois.edu) (08/2017-PRESENT)- 3.6/4.0 
 
 [HINSDALE CENTRAL HIGH SCHOOL](https://d86.hinsdale86.org/Domain/8) (2013-2017)- GPA 5.84/5.00
 
@@ -80,6 +85,8 @@ Awarded for Teamwork and for recruiting efforts on campus (speaking at Tech Talk
 Awarded to the highest achieving Presidents Award Scholars (~200 across all three campuses combined)
 
 #### James Scholar - College of Engineering - University of Illinois at Urbana-Champaign
+
+#### Deans List - University of Illinois at Urbana-Champaign
 
 #### [David Anderson Scholarship Award](https://it.engineering.illinois.edu/news/david-anderson-and-stephanie-ognar-honored-scholarships) - Engineering IT Shared Services - University of Illinois at Urbana-Champaign
 Awarded to 1 student employee annually displaying persistence, dedication, and the pursuit of reliable, flexible IT service
