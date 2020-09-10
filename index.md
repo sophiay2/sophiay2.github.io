@@ -9,9 +9,16 @@
 
 ## About Me
 
-I am Sophia Yang and am pursuing a Bachelor of Science in Computer Science at the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu) through the [Grainger College of Engineering](https://engineering.illinois.edu). I am also pursuing a [Business](https://business.illinois.edu) minor to bridge the gap between business and the technical engineering field. I am a junior and expect to graduate by May 2021 with all studies. 
+I am Sophia Yang and am pursuing a Bachelor of Science in Computer Science at the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu) through the [Grainger College of Engineering](https://engineering.illinois.edu). I am also pursuing a [Business](https://business.illinois.edu) minor to bridge the gap between business and the technical engineering field. I am a senior and expect to graduate by May 2021 with all studies. I am in the process of pursuing a graduate degree in Computer Science at the [University of Illinois at Urbana-Champaign](https://cs.illinois.edu), so I am seeking an internship instead of a full-time position.
                                                                                                                                                                                                     
 ## Experience
+
+### DATA ANALYTICS INTERN - DATA ENGINEERING & DATA SCIENCE, [MARS INC.](https://www.mars.com/) (05/2020 - 08/2020)
+   - Created automated data quality control and data availability Power BI dashboards to enable transparency for errors in the data ingestion pipelines, and to allow company-wide visibility to the data in the Data Lake, its delivery cadence, availability, and granularity (data schema).
+   - Utilized Python and Pandas in Databricks to parse and automate data from data sources including Azure and SQL server
+   - Enabled customizable alerting system for proactive data quality checks and to significantly reduce debugging time.
+   - Created user manuals and technical documentations for both dashboards.
+   - Designed and implemented new logo for the data team.
 
 ### INFORMATION TECHNOLOGY INTERN - APPLICATION COUPA MANAGER & DATA ANALYST, [PROCTER & GAMBLE](https://us.pg.com/) (05/2019 - 08/2019)
    - Worked in Financial and Purchasing Services & Solutions (FPSS) under the Source Plan Pay Operations (SPPO) sector to lead the discovery, documentation, and implementation of IT spend controls over the scope of more than $3,000,000,000 annually. 
