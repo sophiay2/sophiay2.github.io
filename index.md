@@ -37,8 +37,9 @@ I am Sophia Yang and am pursuing a Bachelor of Science in Computer Science at th
  
 ### COURSE ASSISTANT, [CS 411 DATABASE SYSTEMS](https://cs.illinois.edu/academics/courses/cs411) (08/2020 - PRESENT)
   - Hosted office hours
+  - Grade assignments
   - Quality assurance for class assignments
-  - Answered student questions on Piazza
+  - Answered student questions on CampusWire
   
 ### COURSE ASSISTANT, [CS 233 COMPUTER ARCHITECTURE](https://cs233.github.io/) (08/2019 - PRESENT)
   - Hosted office hours
